@@ -1,2 +1,2 @@
-# object-composition
-Learn JavaScript: Object Composition
+# Learn JavaScript: Object Composition
+
